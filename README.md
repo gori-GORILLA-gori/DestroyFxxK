@@ -1,4 +1,6 @@
 # DestroyFxxK
+本人が言ってくれたんだから作るしか無いよね   
+<img width="275" height="53" alt="image" src="https://github.com/user-attachments/assets/b80d6b0d-6cff-4165-9fc4-c0b618b8ca52" />   
 BrainF**k派生言語です
 - `> : Destroy`
 - `< : Board`
