@@ -10,7 +10,7 @@ BrainF**k派生言語です
 - `, : 198cm120kg`
 - `[ : LOVE`
 - `] : Placer`  
-SleepyBoard.exeがインタプリタです  
+DestroyFxxK.exeがインタプリタです  
 ```./DestroyFxxK.exe ファイル名```  
 のようにすると実行できます
 
